@@ -1,6 +1,4 @@
 from tkinter import *
-from termcolor import colored
-
 
 #variable
 list_pnames = []
